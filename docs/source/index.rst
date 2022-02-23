@@ -18,5 +18,5 @@ Contents
 
 .. toctree::
 
-   usag
+   usage
    api
